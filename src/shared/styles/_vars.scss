@@ -1,0 +1,17 @@
+:root{
+  --white: #ffffff;
+  --black: #000000;
+  --background: #edeef0;
+  --background-content: #ffffff;
+  --background-ui: #f0f2f5;
+  --base-text-color:  #141414;
+  --error-text-color: #ff0000;
+}
+
+[data-theme=dark] {
+  --background: #141414;
+  --background-content: #222222;
+  --base-text-color:  #fff;
+  --error-text-color: #e35a5a;
+  --background-ui: #333333;
+}

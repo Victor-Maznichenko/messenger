@@ -1,0 +1,18 @@
+.auth {
+   padding-top: 25dvh;
+   display: flex;
+   align-items: center;
+   justify-content: center;
+}
+
+.auth-inner {
+   padding: 32px 24px;
+   background-color: var(--background-content);
+   max-width: 350px;
+   width: 100%;
+   text-align: center;
+}
+
+.auth__form{
+   margin-top: 20px;
+}
